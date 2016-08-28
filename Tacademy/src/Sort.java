@@ -6,7 +6,6 @@ class SelectSort {
         // Default Constructor
 
 
-
     }
 
     SelectSort(int[] numbers) {// Get an array
@@ -23,9 +22,7 @@ class SelectSort {
                     //swap();
                     System.out.println(i);
                 }
-            }
-            else
-            {
+            } else {
                 System.out.println(i);
             }
         }
