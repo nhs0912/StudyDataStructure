@@ -4,8 +4,7 @@ class SelectSort {
 
     SelectSort() {
         // Default Constructor
-
-
+        //아주 최신 버전
     }
 
     SelectSort(int[] numbers) {// Get an array
