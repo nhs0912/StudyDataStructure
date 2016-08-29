@@ -11,6 +11,7 @@ class SelectSort {
         this.numbers = numbers;
     }
 
+/*
     int findMinNum(int num) {
         // 제일 작은 수 구하기
         int i = num;
@@ -36,8 +37,13 @@ class SelectSort {
         numbers[a] = a;
         //numbers[]
     }
+*/
 
     void execute() {
+        // 선택정렬
+        // 1) 제일 작은 수를 찾는다.
+        // 2) 작은수가 있다면 제일 첫번째 위치랑 자리를 바꾼다.
+        // 3) 1)과 2)를 계속 순환한다.
 
     }
 
