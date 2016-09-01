@@ -4,6 +4,10 @@
     <keyboard-shortcut first-keystroke="ctrl alt r" />
     <keyboard-shortcut first-keystroke="shift meta f11" />
   </action>
+  <action id="CommentByBlockComment">
+    <keyboard-shortcut first-keystroke="shift ctrl slash" />
+    <keyboard-shortcut first-keystroke="shift meta slash" />
+  </action>
   <action id="DatabaseView.PropertiesAction" />
   <action id="Debug" />
   <action id="EditorTextEnd">
