@@ -1,0 +1,16 @@
+<keymap version="1" name="Eclipse (Mac OS X) nhs0912" parent="Eclipse (Mac OS X)">
+  <action id="AutoIndentLines" />
+  <action id="ChooseRunConfiguration">
+    <keyboard-shortcut first-keystroke="ctrl alt r" />
+    <keyboard-shortcut first-keystroke="shift meta f11" />
+  </action>
+  <action id="DatabaseView.PropertiesAction" />
+  <action id="Debug" />
+  <action id="EditorTextEnd">
+    <keyboard-shortcut first-keystroke="meta end" />
+    <keyboard-shortcut first-keystroke="meta i" />
+  </action>
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="meta f11" />
+  </action>
+</keymap>
