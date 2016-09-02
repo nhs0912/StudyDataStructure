@@ -14,6 +14,9 @@
     <keyboard-shortcut first-keystroke="meta end" />
     <keyboard-shortcut first-keystroke="meta i" />
   </action>
+  <action id="Find">
+    <keyboard-shortcut first-keystroke="meta f" />
+  </action>
   <action id="Run">
     <keyboard-shortcut first-keystroke="meta f11" />
   </action>
