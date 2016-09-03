@@ -10,8 +10,10 @@
   </action>
   <action id="DatabaseView.PropertiesAction" />
   <action id="Debug" />
-  <action id="EditorTextEnd">
-    <keyboard-shortcut first-keystroke="meta end" />
+  <action id="EditorLineEnd">
+    <keyboard-shortcut first-keystroke="end" />
+    <keyboard-shortcut first-keystroke="meta right" />
+    <keyboard-shortcut first-keystroke="ctrl e" />
     <keyboard-shortcut first-keystroke="meta i" />
   </action>
   <action id="Find">
