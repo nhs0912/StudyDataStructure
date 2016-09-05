@@ -10,8 +10,8 @@
       <language id="ESLint" NEW_FILE="true" ENABLE="false" />
       <language id="Floobits" NEW_FILE="true" ENABLE="false" />
       <language id="Fossil" NEW_FILE="true" ENABLE="true" />
-      <language id="Git" NEW_FILE="true" ENABLE="true" />
-      <language id="Git exclude" NEW_FILE="true" ENABLE="true" />
+      <language id="Git" NEW_FILE="false" ENABLE="false" />
+      <language id="Git exclude" NEW_FILE="false" ENABLE="false" />
       <language id="Jetpack" NEW_FILE="true" ENABLE="false" />
       <language id="JSHint" NEW_FILE="true" ENABLE="false" />
       <language id="Mercurial" NEW_FILE="true" ENABLE="true" />
