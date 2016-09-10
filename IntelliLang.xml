@@ -5,5 +5,9 @@
     <option name="PATTERN_ANNOTATION" value="org.intellij.lang.annotations.Pattern" />
     <option name="SUBST_ANNOTATION" value="org.intellij.lang.annotations.Subst" />
     <option name="RESOLVE_REFERENCES" value="true" />
+    <injection language="XML" injector-id="xml">
+      <display-name>servlet-name</display-name>
+      <place><![CDATA[xmlTag().withLocalName(string().equalTo("servlet-name")).withNamespace(string().equalTo("http://java.sun.com/xml/ns/javaee"))]]></place>
+    </injection>
   </component>
 </application>
