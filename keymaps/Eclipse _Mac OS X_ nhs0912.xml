@@ -21,6 +21,7 @@
   </action>
   <action id="Run">
     <keyboard-shortcut first-keystroke="meta f11" />
+    <keyboard-shortcut first-keystroke="shift f10" />
   </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
