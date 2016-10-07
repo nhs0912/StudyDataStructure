@@ -26,6 +26,10 @@
           <option name="url" value="https://github.com/nhs0912/withMyPet.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/nhs0912/algoStudy.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Documents/bitBucket" />
