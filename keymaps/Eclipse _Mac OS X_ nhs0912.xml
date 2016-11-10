@@ -25,7 +25,7 @@
     <keyboard-shortcut first-keystroke="meta f" />
   </action>
   <action id="Replace">
-    <keyboard-shortcut first-keystroke="shift f" />
+    <keyboard-shortcut first-keystroke="shift ctrl f" />
   </action>
   <action id="Run">
     <keyboard-shortcut first-keystroke="meta f11" />
