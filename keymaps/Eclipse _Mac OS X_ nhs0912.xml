@@ -37,9 +37,6 @@
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
-  <action id="SwitchBootJdk">
-    <keyboard-shortcut first-keystroke="ctrl meta s" />
-  </action>
   <action id="SwitchDown">
     <keyboard-shortcut first-keystroke="ctrl alt down" />
   </action>
