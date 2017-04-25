@@ -4,23 +4,35 @@
     <keyboard-shortcut first-keystroke="ctrl alt r" />
     <keyboard-shortcut first-keystroke="shift meta f11" />
   </action>
+  <action id="CollapseTreeNode" />
   <action id="CommentByBlockComment">
     <keyboard-shortcut first-keystroke="shift ctrl slash" />
     <keyboard-shortcut first-keystroke="shift meta slash" />
   </action>
   <action id="DatabaseView.PropertiesAction" />
-  <action id="Debug" />
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="shift meta d" />
+  </action>
+  <action id="Diff.ShowSettingsPopup" />
   <action id="EditorLineEnd">
     <keyboard-shortcut first-keystroke="end" />
     <keyboard-shortcut first-keystroke="meta right" />
     <keyboard-shortcut first-keystroke="ctrl e" />
     <keyboard-shortcut first-keystroke="meta i" />
   </action>
+  <action id="ExpandTreeNode" />
   <action id="Find">
     <keyboard-shortcut first-keystroke="meta f" />
   </action>
+  <action id="MethodDuplicates">
+    <keyboard-shortcut first-keystroke="ctrl meta f" />
+  </action>
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="shift ctrl f" />
+  </action>
   <action id="Run">
     <keyboard-shortcut first-keystroke="meta f11" />
+    <keyboard-shortcut first-keystroke="shift f10" />
   </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
@@ -37,4 +49,7 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
+  <action id="TagDocumentationNavigation" />
+  <action id="ToggleFullScreen" />
+  <action id="Uml.ShowDiff" />
 </keymap>
